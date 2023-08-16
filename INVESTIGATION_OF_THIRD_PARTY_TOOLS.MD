@@ -14,3 +14,5 @@ Projects have issues which can be different types - Task, Story, Epic, Feature, 
 
 Issues have properties which can be manually assigned to issues, depending on the needs. Those properties can contain multipurpose information.
 
+## Polarion
+
