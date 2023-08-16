@@ -1,1 +1,3 @@
-# work-manager-docs
+# Work Manager Documents
+
+Contains documents for the project.
